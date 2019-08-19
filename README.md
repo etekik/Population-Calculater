@@ -6,7 +6,7 @@ This programming project will use the input and print functions along with some 
 We are going to estimate the population of the United States based on some information found at a website provided by the US census:
 http://www.census.gov/population/www/popclockus.html That website specifies the following information:
 
---A number that represents the current population. We will fix that number for the this project at the value: 307357870
+--A number that represents the current population. We will fix that number for the this project at the value: 329466236
 --3 rates:
     --every 7 seconds, a birth
     --every 13 seconds, a death
